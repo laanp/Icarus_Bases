@@ -20,7 +20,7 @@ For example "Pete's Olympus OW-9.json" is an open world prospect on the map "Oly
 ### Prospect Installation: 
 "Prospects" is a generic name for any mission, outpost, or open world map session in the game Icarus-First Cohort.  All of my shared prospects are open worlds. 
 Anything you build within the prospect, is all stored in a single json file stored on your local PC in the following directory:  
-- <drive>:\Users\<Username>\AppData\Local\Icarus\Saved\PlayerData\<UserAccount#>\Prospects
+- <<drive>>\Users\<Username>\AppData\Local\Icarus\Saved\PlayerData\<UserAccount#>\Prospects
 
 If you are running a Dedicated Server, the location to store the prospects on the server will be:
 <drive>:\<IcarusServerFolder>\Icarus\Saved\PlayerData\DedicatedServer\Prospects
