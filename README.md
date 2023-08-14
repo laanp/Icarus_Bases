@@ -5,7 +5,7 @@ By Peter Laan
 Bases should be forward compatible with all versions of Icarus.
 
 ### Description:
-Welcome to my laanp_Icarus_Bases reposititory on github!
+Welcome to my laanp_Icarus_Bases repository on github!
 
 This is currently under construction, but stay tuned and visit often to see updates.
 
