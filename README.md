@@ -40,7 +40,7 @@ A lot of my open world prospects were built while I was running some of my mods.
 Most notably will be power for the base.  In my "laanp-BuildersDream" mod I created biofuel generators that can deliver more power, and therefore only installed (1) of them.  Not a big deal, but if you enter the prospect without any mods running, you will need to add additional generators to get the power going.  Same goes with water pumps, you may need to add more of them if needed. 
 
 I also used "laanp-NoWeather" mod when building some of the buidlings, and while I tried to stay consistent with weather-proof design, if you are not runninng any weather mods you may need to toughen up some of the building trim and certain areas as required.
-
+Get access to my mods here:  [laanp - Icarus Bases]((https://github.com/laanp/Icarus_Mods_Separated))
 
 ### How To Contact Me:
 
