@@ -14,8 +14,7 @@ I enjoy building in the game, and thought it would be cool to share some of my c
 
 
 ### Map Locations: 
-I have also included separate maps for each prospect, that will show approximate locations of your drop pods when you enter the prospect, as well as the base location.
-For example "Pete's Olympus OW-9.json" is an open world prospect on the map "Olympus" and the associated map will be called "Pete's Olympus OW-9.jpg"
+I have also included (3) maps, Olympus, Styx & Prometheus, to identify where the bases are located in each of their respective Open World prospect.
 
 ### Prospect Installation: 
 "Prospects" is a generic name for any mission, outpost, or open world map session in the game Icarus-First Cohort.  
@@ -32,15 +31,21 @@ Where:
   \<UserAccount#\> = Your user account number for Icarus (will be something like: "75661197962466207")  
   \<IcarusServerFolder\> = Where you installed the Icarus Dedicated Server app.  
   
-Installation of prospects is easy, simply download the desired file *.json from the "Latest" release button to the right of this main page, and drop the file into the directories as described above.
+Installation of prospects is easy, simply download the desired zip file, *.zip, from the "Latest" release button to the right of this main page, and extract the *.json prospect file into the directories as described above.
 Startup Icarus and once you have selected your character, click the "Join" menu and you should see my prospect available in the list.
 
-### Prospect Notes: 
-A lot of my open world prospects were built while I was running some of my mods.  This means you may notice a couple of things that are not functioning if you startup these prospects without the mods.  
-Most notably will be power for the base.  In my "laanp-BuildersDream" mod I created biofuel generators that can deliver more power, and therefore only installed (1) of them.  Not a big deal, but if you enter the prospect without any mods running, you will need to add additional generators to get the power going.  Same goes with water pumps, you may need to add more of them if needed. 
+### Prospect Notes & Mod Use: 
+All of my open world prospects were built while I was running (2) of my mods called:
+   - laanp-NoWeather
+   - Combined_PJM_Pete
+Both these mods are available in the Latest Release section.
+These mods can both exist in the mods directory and should NOT be merged using the IMM.
 
-I also used "laanp-NoWeather" mod when building some of the buidlings, and while I tried to stay consistent with weather-proof design, if you are not runninng any weather mods you may need to toughen up some of the building trim and certain areas as required. 
-Get access to my mods here:  [laanp - Icarus Bases](https://github.com/laanp/Icarus_Mods_Separated)
+I am not saying you must install these mods to use these prospects, however the following side effects will occurr if you startup these prospects without the mods:
+   - You will loose alot of resources in storage containers, since all inventory slots have stack modification of 100, normally this is 20 for most items,so you will loose all those resources.  This is irreversible if the prospect saves without mods, unless you restore original prospect from the GitHub.
+   - Some buildings use materials that may may be destroyed by weather effects, so NoWeather mod is beneficial.
+   - The mod affects power-generating equipment, as well as water pump delivery, so going in with no mods, you might find you now have insufficient power or water supply to your base equipment.
+ 
 
 ### How To Contact Me:
 
@@ -48,14 +53,5 @@ Get access to my mods here:  [laanp - Icarus Bases](https://github.com/laanp/Ica
 - Youtube Channel: [Icarus - First Cohort - BaseBuilding](https://www.youtube.com/channel/UCQWq0BjD4mnUkAZgRwwigNQ) 
 
 Enjoy Prospectors!
-
-
-
-
-
-
-
-
-
 
 
